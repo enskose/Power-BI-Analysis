@@ -2,5 +2,6 @@ Bu repository, Power BI ile gerçekleştirdiğim veri analizi projelerinin kapsa
 
 satis_dashboard.pbix
 
-![image](https://github.com/user-attachments/assets/f17b52aa-acb2-4546-bae5-ff8adedf12dc)
+![image](https://github.com/user-attachments/assets/623554e2-e563-49a7-a325-18e596d7a821)
+
 
