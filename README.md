@@ -1,5 +1,5 @@
-Satış Analiz Raporu
-Genel Bakış
+# Satış Analiz Raporu
+### Genel Bakış
 Bu repository, Power BI kullanılarak hazırlanmış kapsamlı bir satış analiz raporunu içermektedir. Rapor, perakende sektöründeki satış performansını inceleyerek, trendler, ürün bazlı satış dağılımları ve bölgesel performans gibi konularda önemli içgörüler sunmaktadır.
 
 İçerik
