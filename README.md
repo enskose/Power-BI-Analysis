@@ -1,18 +1,18 @@
 # Satış Analiz Raporu
-### Genel Bakış
+## Genel Bakış
 Bu repository, Power BI kullanılarak hazırlanmış kapsamlı bir satış analiz raporunu içermektedir. Rapor, perakende sektöründeki satış performansını inceleyerek, trendler, ürün bazlı satış dağılımları ve bölgesel performans gibi konularda önemli içgörüler sunmaktadır.
 
-İçerik
-Rapor Dosyası: satis_dashboard.pbix (Power BI Desktop dosyası)
+## İçerik
+# Rapor Dosyası: satis_dashboard.pbix (Power BI Desktop dosyası)
 
-Dokümantasyon: Bu README dosyası ve ek dokümanlar
+# Dokümantasyon: Bu README dosyası ve ek dokümanlar
 
-Örnek Görselleştirmeler: Rapor içerisindeki grafikler, tablolar ve dashboard’lar
+# Örnek Görselleştirmeler: Rapor içerisindeki grafikler, tablolar ve dashboard’lar
 
-Analizin Amacı
-Amaç: Perakende satış verileri üzerinden performans değerlendirmesi yapmak, en çok satılan ürünleri ve en verimli satış kanallarını belirlemek.
+## Analizin Amacı
+# Amaç: Perakende satış verileri üzerinden performans değerlendirmesi yapmak, en çok satılan ürünleri ve en verimli satış kanallarını belirlemek.
 
-Kapsam: Analiz, 2023 yılının ilk üç çeyreğine ait satış verileri temel alınarak gerçekleştirilmiştir. Ayrıca, farklı mağaza lokasyonları arasındaki performans farkları incelenmiştir.
+# Kapsam: Analiz, 2023 yılının ilk üç çeyreğine ait satış verileri temel alınarak gerçekleştirilmiştir. Ayrıca, farklı mağaza lokasyonları arasındaki performans farkları incelenmiştir.
 
 Veri Kaynakları ve Hazırlık
 Veri Kaynakları:
