@@ -94,6 +94,3 @@ Raporun detaylı kullanım yönergelerini içeren PDF dokümanı (yakında eklen
 ## Sunum ve Raporlar:
 
 Yönetim raporları ve sunum slaytları, ek dosyalar halinde sağlanacaktır.
-
-# Lisans
-Bu repository, MIT Lisansı kapsamında yayınlanmıştır. Daha fazla bilgi için LICENSE dosyasını inceleyebilirsiniz.
