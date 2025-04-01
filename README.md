@@ -14,35 +14,35 @@ Amaç: Perakende satış verileri üzerinden performans değerlendirmesi yapmak,
 
 Kapsam: Analiz, 2023 yılının ilk üç çeyreğine ait satış verileri temel alınarak gerçekleştirilmiştir. Ayrıca, farklı mağaza lokasyonları arasındaki performans farkları incelenmiştir.
 
-Veri Kaynakları ve Hazırlık
-Veri Kaynakları:
+# Veri Kaynakları ve Hazırlık
+## Veri Kaynakları:
 
 Satış verileri, CSV formatında sağlanan günlük raporlardan temin edilmiştir.
 
 Müşteri ve ürün bilgileri, SQL veritabanından çekilmiştir.
 
-Veri Temizleme & Dönüşüm:
+## Veri Temizleme & Dönüşüm:
 
 Power Query kullanılarak veriler temizlenmiş, eksik veriler tamamlanmış ve gereksiz sütunlar elenmiştir.
 
 Tarih formatları standartlaştırılmış, ürün kategorileri belirli gruplara ayrılmıştır.
 
-Modelleme:
+## Modelleme:
 
 İlişkisel veri modeli oluşturularak, satış verileri ile müşteri ve ürün bilgileri arasında bağlantılar kurulmuştur.
 
 DAX formülleri ile toplam satış, ortalama sipariş değeri ve bölgesel performans gibi metrikler hesaplanmıştır.
 
-Raporun Özellikleri
-Ana Metriğe Odaklanma:
+# Raporun Özellikleri
+## Ana Metriğe Odaklanma:
 
 Toplam satış tutarı, satış adetleri, ve kar marjı gibi temel metrikler.
 
-Dinamik Dashboard:
+## Dinamik Dashboard:
 
 Kullanıcıların filtre ve dilimleyiciler aracılığıyla, tarih aralığı, mağaza lokasyonu ve ürün kategorisi bazında detaylı segmentasyon yapabilmelerine olanak tanır.
 
-Görselleştirmeler:
+## Görselleştirmeler:
 
 Çubuk grafikler: Ürün bazında satış dağılımı.
 
@@ -52,25 +52,25 @@ Haritalar: Bölgesel satış performansının görselleştirilmesi.
 
 KPI göstergeleri: Hedeflere ulaşım durumu.
 
-Kullanım ve İnteraktivite
-Power BI Desktop ile Açma:
+# Kullanım ve İnteraktivite
+## Power BI Desktop ile Açma:
 
 satis_dashboard.pbix dosyasını Power BI Desktop üzerinden açın.
 
-Filtreleme ve İnceleme:
+## Filtreleme ve İnceleme:
 
 Dashboard üzerindeki filtreler sayesinde tarih, lokasyon ve ürün kategorilerine göre detaylı analiz yapabilirsiniz.
 
-Raporun Yayınlanması:
+## Raporun Yayınlanması:
 
 Raporu Power BI Service’e yükleyerek ekip içinde paylaşabilir, interaktif rapor erişimi sağlayabilirsiniz.
 
-Geliştirme ve Katkı
-Geri Bildirim:
+# Geliştirme ve Katkı
+## Geri Bildirim:
 
 Rapor ve analizle ilgili öneri veya sorularınızı issue tracker üzerinden paylaşabilirsiniz.
 
-Katkıda Bulunma:
+## Katkıda Bulunma:
 
 Repository’i fork’layın.
 
@@ -78,7 +78,7 @@ Değişikliklerinizi oluşturun.
 
 Pull request gönderin.
 
-Gelecek Planlar:
+## Gelecek Planlar:
 
 Veri kaynaklarının güncellenmesi.
 
@@ -86,14 +86,14 @@ Ek metriklerin analizi ve yeni görselleştirme tiplerinin eklenmesi.
 
 Kullanıcı geri bildirimlerine göre rapor üzerinde iyileştirmeler yapılması.
 
-Ek Belgeler
-Kullanım Kılavuzu:
+# Ek Belgeler
+## Kullanım Kılavuzu:
 
 Raporun detaylı kullanım yönergelerini içeren PDF dokümanı (yakında eklenecektir).
 
-Sunum ve Raporlar:
+## Sunum ve Raporlar:
 
 Yönetim raporları ve sunum slaytları, ek dosyalar halinde sağlanacaktır.
 
-Lisans
+# Lisans
 Bu repository, MIT Lisansı kapsamında yayınlanmıştır. Daha fazla bilgi için LICENSE dosyasını inceleyebilirsiniz.
